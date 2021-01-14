@@ -1,0 +1,58 @@
+#font1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#font2 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#color-text {
+  color: red;
+}
+
+.img {
+  width: 50px;
+  height: 50px;
+}
+
+.big-pictures {
+  width: 50%;
+  height: 50%;
+}
+
+.margin-img {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.text-centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text-with-border {
+  border-style: dotted;
+}
+
+.float-img {
+  float: right;
+  width: 50%;
+  height: 50%;
+}
+
+#rcorners {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 40px;
+}
+
